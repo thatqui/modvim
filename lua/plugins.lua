@@ -12,7 +12,7 @@ end
 vim.opt.rtp:prepend(lazypath)
 
 require("lazy").setup({
-    "dracula/vim",
+    "Mofiqul/dracula.nvim",
     "williamboman/mason.nvim",
     "williamboman/mason-lspconfig.nvim",
     "neovim/nvim-lspconfig",
@@ -20,4 +20,5 @@ require("lazy").setup({
     "nvim-telescope/telescope.nvim",
     "nvim-lua/plenary.nvim",
     "mhinz/vim-startify",
+    "preservim/nerdtree",
 })
