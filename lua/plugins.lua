@@ -17,4 +17,7 @@ require("lazy").setup({
     "williamboman/mason-lspconfig.nvim",
     "neovim/nvim-lspconfig",
     "jiangmiao/auto-pairs",
+    "nvim-telescope/telescope.nvim",
+    "nvim-lua/plenary.nvim",
+    "mhinz/vim-startify",
 })
