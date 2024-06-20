@@ -7,7 +7,7 @@
 
 ## Installation
 ```
-git clone https://gitlab.com/thatqui/modvim.git ~/.config/nvim && nvim
+git clone https://github.com/thatqui/modvim.git ~/.config/nvim && nvim
 ```
 
 ## Screenshots
